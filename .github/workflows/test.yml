@@ -4,6 +4,9 @@ on: [push, pull_request]
 jobs:
   test:
       runs-on: ubuntu-latest
+      defaults:
+        run:
+          working-directory: ./3060-Assignment-1/assignment 1 - 3060
       steps:
         - uses: actions/checkout@v4
         - uses: actions/setup-node@v4
