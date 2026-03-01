@@ -78,7 +78,7 @@ Page Structure & Navigation
 
 # Status Badge
 
-[![Page Tests](https://github.com/TrustyBridge/3060-Assignment-1/actions/workflows/test.yml/badge.svg)](https://github.com/TrustyBridge/3060-Assignment-1/actions/workflows/test.yml)
+[![Page Tests](https://github.com/TrustyBridge/3060-Assignment-1/actions/workflows/ci.yml/badge.svg)](https://github.com/TrustyBridge/3060-Assignment-1/actions/workflows/ci.yml)
 
 
 
